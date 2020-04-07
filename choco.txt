@@ -1,0 +1,1 @@
+7zip flashplayerplugin flashplayeractivex flashplayerppapi vlc recuva anki jre8 firefox googlechrome javaruntime git putty jdk8 filezilla procexp foxitreader treesizefree chocolateygui teamviewer audacity cpu-z eclipse autoit.install virtualclonedrive origin avidemux coretemp epicgameslauncher visualstudiocode zerotier-one  openvpn teamspeak

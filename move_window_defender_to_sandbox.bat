@@ -1,0 +1,1 @@
+setx /m mp_force_use_sandbox 1
